@@ -1,0 +1,4 @@
+﻿  奇偶调序.c
+C:\Users\zzy\source\repos\调整奇数偶数顺序\调整奇数偶数顺序\奇偶调序.c(29,10): warning C4047: “函数”:“int *”与“int (*)[10]”的间接级别不同
+C:\Users\zzy\source\repos\调整奇数偶数顺序\调整奇数偶数顺序\奇偶调序.c(29,6): warning C4024: “soe”: 形参和实参 1 的类型不同
+  调整奇数偶数顺序.vcxproj -> C:\Users\zzy\source\repos\调整奇数偶数顺序\Debug\调整奇数偶数顺序.exe
