@@ -1,0 +1,5 @@
+﻿  game.c
+C:\Users\zzy\source\repos\三子棋\三子棋\game.c(81,12): warning C4087: “rand”: 用“void”参数列表声明
+C:\Users\zzy\source\repos\三子棋\三子棋\game.c(82,12): warning C4087: “rand”: 用“void”参数列表声明
+C:\Users\zzy\source\repos\三子棋\三子棋\game.c(143): warning C4715: “judgewinner”: 不是所有的控件路径都返回值
+  三子棋.vcxproj -> C:\Users\zzy\source\repos\三子棋\Debug\三子棋.exe
