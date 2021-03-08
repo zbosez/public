@@ -1,0 +1,47 @@
+<!DOCTYPE html><!--！的意思是声明；这一整行的代码的意思是：下面的文档标签将以html5的规范去解析。-->
+<html>
+<head>
+    <meta charset="utf-8"><!--用来设置汉字编码-->  <!--meta是元的意思，用来完成对应设置-->
+<!--    以下两行的设置，可以让我们在不付费的情况下，让我们的网站尽可能在用户搜索的时候排在前面一点点。-->
+    <meta name="keywords" content=""><!--设置网站搜索的关键字-->
+    <meta name="description" content=""><!--设置网站的描述内容-->
+
+    <title>我的第一个html网页</title>
+    <link rel="shortcut icon" href="https://oss.tool.lu/cache/202103/08/1754484fwq7ebjmwk4wf45.png.icon.ico" type="image/png">
+    <style>/*书写样式的地方*/
+
+    </style>
+    <link rel="stylesheet" href="style.css"><!--用来引入外部样式文件-->
+</head><!--头部主要用来完成一个网页的相关设置-->
+
+<body>
+
+</body>
+<script>/*用来放置逻辑性的代码，用来放脚本语言*/
+
+
+</script>
+</html><!DOCTYPE html><!--！的意思是声明；这一整行的代码的意思是：下面的文档标签将以html5的规范去解析。-->
+<html>
+<head>
+    <meta charset="utf-8"><!--用来设置汉字编码-->  <!--meta是元的意思，用来完成对应设置-->
+<!--    以下两行的设置，可以让我们在不付费的情况下，让我们的网站尽可能在用户搜索的时候排在前面一点点。-->
+    <meta name="keywords" content=""><!--设置网站搜索的关键字-->
+    <meta name="description" content=""><!--设置网站的描述内容-->
+
+    <title>我的第一个html网页</title>
+    <link rel="shortcut icon" href="https://oss.tool.lu/cache/202103/08/1754484fwq7ebjmwk4wf45.png.icon.ico" type="image/png">
+    <style>/*书写样式的地方*/
+
+    </style>
+    <link rel="stylesheet" href="style.css"><!--用来引入外部样式文件-->
+</head><!--头部主要用来完成一个网页的相关设置-->
+
+<body>
+
+</body>
+<script>/*用来放置逻辑性的代码，用来放脚本语言*/
+
+
+</script>
+</html>
